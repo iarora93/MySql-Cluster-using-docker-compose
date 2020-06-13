@@ -1,5 +1,6 @@
 # MySql-Cluster-using-docker-compose
-Creating Master Master MySQL cluster using docker-compose
+Have done master-master replication of mysql using Mysql docker image.
+Creating MySQL cluster using docker-compose
 
 
 # Run the code in below order
@@ -12,6 +13,5 @@ Creating Master Master MySQL cluster using docker-compose
   
   4) ./table.sh
   
-  Have done master-master replication of mysql using Mysql docker image.
   
   
