@@ -1,0 +1,7 @@
+[mysqld]
+server-id = 222
+log_bin = /var/log/mysql/mysql-bin.log
+binlog_format = ROW
+binlog_do_db = mydb
+skip-host-cache
+skip-name-resolve
